@@ -124,6 +124,28 @@
         </div>
     </footer>
 
-    <script src="script.js"></script>
+    <script> 
+        document.addEventListener("DOMContentLoaded", function() {
+          const menuBtn = document.querySelector('.menu-btn');
+          const navOpt = document.querySelector('.navOpt');
+          const closeBtn = document.querySelector('.close-btn');
+        
+          menuBtn.addEventListener('click', function() {
+            navOpt.classList.toggle('show');
+            closeBtn.style.display = 'block';
+          
+        
+          });
+          closeBtn.addEventListener('click', function() {
+            navOpt.classList.toggle('show');
+            closeBtn.style.display = 'none';
+          });
+        });
+        
+        
+        
+        
+        
+        </script>
 </body>
 </html>
