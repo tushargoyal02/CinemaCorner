@@ -1,0 +1,5 @@
+api key = AIzaSyANU7T8EJTIpEDm1gBmXrGaOQYVhNU46GE
+channnel id = UCi8e0iOVk1fEOogdfu4YgfA
+upload id = UUi8e0iOVk1fEOogdfu4YgfA
+url : https://youtube.googleapis.com/youtube/v3/playlistItems?part=snippet&maxResults=15&playlistId=UUi8e0iOVk1fEOogdfu4YgfA&key=AIzaSyANU7T8EJTIpEDm1gBmXrGaOQYVhNU46GE
+search url : https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=q&key=AIzaSyANU7T8EJTIpEDm1gBmXrGaOQYVhNU46GE
